@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Hyeongjun Han
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: keep learning
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,13 +18,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: hhj2000@hufs.ac.kr
+  facebook: do.it.html5
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  github: hhj2000.github.io
+  instagram: hhj2000
+  linkedin: hhj2000
+  pinterest: hhj2000
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
